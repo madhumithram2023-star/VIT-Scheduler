@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7791196368",
+    "project_id": "classroomapp-f574b",
+    "storage_bucket": "classroomapp-f574b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7791196368:android:97fd26cb3a3560740506d5",
+        "android_client_info": {
+          "package_name": "com.example.clatproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRT6_elGXBQ3q1EJ7qoDpMNrCFDoOZMc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

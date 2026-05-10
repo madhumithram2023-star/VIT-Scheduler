@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/nav_upload_course"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:title="Upload Data" />
+    <item
+        android:id="@+id/nav_book"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Book Classroom" />
+    <item
+        android:id="@+id/nav_view"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="View Availability" />
+    <item
+        android:id="@+id/nav_reset"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Reset allocations" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="Sign Out" />
+
+</menu>
